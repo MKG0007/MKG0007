@@ -41,3 +41,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MKG0007&show_icons=true&locale=en&layout=compact" alt="MKG0007" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MKG0007&show_icons=true&locale=en" alt="MKG0007" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MKG0007&" alt="MKG0007" /></p>
