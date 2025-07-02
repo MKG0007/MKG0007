@@ -1,8 +1,21 @@
 <h1 align="center">hey there 👋</h1>
+<!-- quick connectors & visitor badge -->
+<p align="center">
+  <a href="https://leetcode.com/u/mkgoo7/"><img alt="LeetCode username"
+       src="https://img.shields.io/badge/LeetCode-mkgoo7-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mayankgupta30/">
+       <img alt="LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-Mayank-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:mg258087@gmail.com?subject=Hello%20Mayank%20from%20GitHub">
+       <img alt="Gmail"
+            src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img alt="Visitors"
+       src="https://komarev.com/ghpvc/?username=MKG0007&style=for-the-badge&color=blueviolet">
+</p>
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F5NHRlMHY4NDltam9mcXk4OXRzbG05cTdscm43dDJtbXFieXdtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="right" width="400" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F5NHRlMHY4NDltam9mcXk4OXRzbG05cTdscm43dDJtbXFieXdtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
@@ -14,35 +27,30 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🚀 My Coding Journey at a Glance</h3>
 
 ###
+<table>
+  <tr>
+    <td rowspan="2" width="50%">
+      <a href="https://leetcode.com/u/mkgoo7/">
+        <img src="https://leetcard.jacoblin.cool/mkgoo7?theme=light&font=baloo&ext=heatmap"
+             alt="LeetCode Stats for mkgoo7"
+             width="100%" />
+      </a>
+    </td>
+    <td width="20%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MKG0007&show_icons=true&locale=en&layout=compact"
+           alt="Top Languages"
+           width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKG0007"
+           alt="GitHub Streak"
+           width="100%" />
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MKG0007&show_icons=true&locale=en&layout=compact" alt="MKG0007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MKG0007&show_icons=true&locale=en" alt="MKG0007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MKG0007&" alt="MKG0007" /></p>
