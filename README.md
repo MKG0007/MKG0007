@@ -1,7 +1,8 @@
 <h1 align="center">hey there 👋</h1>
+
 <!-- quick connectors & visitor badge -->
 <p align="center">
-  <a href="https://leetcode.com/u/mkgoo7/" target="_blank"><img alt="LeetCode username"
+  <a href="https://leetcode.com/u/mkgoo7/"><img alt="LeetCode username"
        src="https://img.shields.io/badge/LeetCode-mkgoo7-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mayankgupta30/">
        <img alt="LinkedIn"
@@ -15,10 +16,17 @@
 
 ###
 
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+<!-- coder GIF image -->
 <img align="right" width="400" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F5NHRlMHY4NDltam9mcXk4OXRzbG05cTdscm43dDJtbXFieXdtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
-
+<!-- about me section -->
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -27,6 +35,14 @@
 
 ###
 
+
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+<!-- streak show --->
 <h3 align="left">🚀 My Coding Journey at a Glance</h3>
 
 ###
