@@ -33,14 +33,12 @@
 
 <p align="left">Hey 👋, I'm  Mayank Kumar Gupta!<br>I am an enthusiastic Full Stack Developer 🌐 and a DevOps Enthusiast 🚀.<br>I love exploring modern DevOps tools & technologies 🛠️ like Docker, Kubernetes, Jenkins, Terraform, AWS, and CI/CD pipelines,<br>along with building scalable full-stack applications using React, Node.js, MongoDB, and more.<br>Besides coding, you’ll often find me playing games with my friends 😁</p>
 
-###
-
+<br>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
 <!-- streak show --->
 <h3 align="left">🚀 My Coding Journey at a Glance</h3>
-<br>
 <table align="center" width="100%" cellspacing="20">
   <tr>
     <td style="border: 2px solid white; border-radius: 10px; padding: 10px; background-color: #0d1117;" width="50%">
