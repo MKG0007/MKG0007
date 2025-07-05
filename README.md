@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td rowspan="2" width="50%">
-      <a href="https://leetcode.com/u/mkgoo7/">
+      <a href="https://leetcode.com/u/mkgoo7/" target="_blank">
         <img src="https://leetcard.jacoblin.cool/mkgoo7?theme=dark&font=baloo&ext=heatmap"
              alt="LeetCode Stats Of mkgoo7"
              width="100%" />
