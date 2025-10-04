@@ -69,3 +69,6 @@
     </td>
   </tr>
 </table>
+<div align="left" style="margin-top: 30px;">
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=mkgoo7&theme=onedark&border=border&animated=true" alt="LeetCode Badges"/>
+</div>
