@@ -62,7 +62,7 @@
     <!-- Tech Stack -->
     <td style="border: 2px solid white; border-radius: 12px; padding: 10px; background-color:#0d1117; text-align:center; width:50%;">
       <h3 style="color:#58a6ff; margin-bottom:12px;">Tech Stack</h3>
-      <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; width:100%; padding:5px;">
+      <div style="display:flex; flex-wrap:wrap; gap:8px; width:100%; padding:5px;">
         <!-- Badges -->
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
